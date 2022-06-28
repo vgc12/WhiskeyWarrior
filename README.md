@@ -1,2 +1,4 @@
 # WhiskeyWarrior
-All of the scripts I have made for my first game
+This repository is full of all of the scripts i have for Whiskey Warrior
+
+Some of them are incomplete and not fully working and there is much room for improvement.
